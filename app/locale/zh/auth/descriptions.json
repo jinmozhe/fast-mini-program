@@ -1,0 +1,25 @@
+{
+    "metadata": {
+      "module": "auth",
+      "type": "descriptions",
+      "language": "zh",
+      "version": "1.0.0", 
+      "generated_at": "2025-04-17T14:51:35Z"
+    },
+  
+    "PASSWORD_REQUIREMENTS": "密码必须至少包含8个字符，包括大写字母、小写字母、数字和特殊字符。",
+    "EMAIL_VERIFICATION": "我们将向您的邮箱发送一封验证邮件。请点击邮件中的链接完成验证。",
+    "PHONE_VERIFICATION": "我们将向您的手机发送一条验证短信。请输入短信中的验证码完成验证。",
+    "PASSWORD_RESET_PROCESS": "请输入您的注册邮箱，我们将发送密码重置链接到您的邮箱。点击链接后，您可以设置新密码。",
+    "MFA_EXPLANATION": "二步验证可以为您的账号提供额外的安全保护。启用后，除了输入密码外，您还需要输入手机应用生成的验证码或接收短信验证码。",
+    "MFA_SETUP_STEPS": "1. 下载并安装验证器应用（如Google Authenticator）\n2. 使用应用扫描下方的二维码\n3. 输入应用生成的6位验证码完成设置",
+    "MFA_BACKUP_CODES": "请保存好以下备用码，当您无法使用验证器应用时，可以使用这些备用码登录。每个备用码只能使用一次。",
+    "SOCIAL_AUTH_INFO": "您可以关联社交账号以简化登录过程。我们不会在未经您允许的情况下发布任何内容到您的社交媒体。",
+    "ACCOUNT_DELETION_WARNING": "警告：账号删除是永久性操作，删除后所有数据将无法恢复。请确认您已备份所需的数据。",
+    "SESSION_MANAGEMENT_INFO": "以下是您当前的活跃会话列表。如果您发现任何可疑活动，可以终止相应会话并更改密码。",
+    "ROLE_PERMISSION_INFO": "角色决定了您在系统中可以执行的操作。每个角色都有特定的权限集合。",
+    "SECURITY_RECOMMENDATIONS": "为了提高账号安全性，我们建议：\n1. 使用复杂且唯一的密码\n2. 启用二步验证\n3. 定期检查登录活动\n4. 不要在公共设备上保持登录状态",
+    "VERIFICATION_EMAIL_NOTICE": "如果您没有收到验证邮件，请检查垃圾邮件文件夹，或点击下方重新发送按钮。",
+    "VERIFICATION_SMS_NOTICE": "如果您没有收到验证短信，请确认输入的手机号码正确，并确保手机信号良好。",
+    "ACCOUNT_LOCKOUT_INFO": "多次登录失败后，账号将被临时锁定以保护安全。锁定时间过后，您可以再次尝试登录。"
+  }

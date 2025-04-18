@@ -1,0 +1,25 @@
+{
+    "metadata": {
+      "module": "infrastructure",
+      "type": "resource",
+      "language": "zh", 
+      "version": "1.0.0",
+      "generated_at": "2025-04-17T14:51:35Z"
+    },
+  
+    "CPU_LIMIT_EXCEEDED": "CPU使用限制已达到",
+    "MEMORY_LIMIT_EXCEEDED": "内存使用限制已达到",
+    "PROCESS_LIMIT_EXCEEDED": "进程数限制已达到",
+    "THREAD_LIMIT_EXCEEDED": "线程数限制已达到",
+    "CONNECTION_LIMIT_EXCEEDED": "连接数限制已达到",
+    "REQUEST_LIMIT_EXCEEDED": "请求数限制已达到",
+    "SESSION_LIMIT_EXCEEDED": "会话数限制已达到",
+    "TIME_LIMIT_EXCEEDED": "时间限制已达到",
+    "RATE_LIMIT_EXCEEDED": "请求频率限制已达到",
+    "CONCURRENT_ACCESS_LIMIT": "并发访问限制已达到",
+    "API_QUOTA_EXCEEDED": "API配额已用尽",
+    "SERVICE_QUOTA_EXCEEDED": "服务配额已用尽",
+    "CONTAINER_RESOURCE_LIMIT": "容器资源限制已达到",
+    "WORKER_POOL_EXHAUSTED": "工作线程池已耗尽",
+    "QUEUE_CAPACITY_EXCEEDED": "队列容量已达到"
+  }

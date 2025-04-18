@@ -1,0 +1,32 @@
+{
+    "metadata": {
+      "module": "integrations",
+      "type": "payment",
+      "language": "zh",
+      "version": "1.0.0",
+      "generated_at": "2025-04-17T14:51:35Z"
+    },
+  
+    "CONNECTION_ERROR": "无法连接到支付服务",
+    "API_ERROR": "支付服务API错误",
+    "AUTHENTICATION_FAILED": "支付服务认证失败",
+    "INVALID_API_KEY": "无效的支付服务API密钥",
+    "INVALID_MERCHANT_ID": "无效的商户ID",
+    "INVALID_TRANSACTION": "无效的交易",
+    "TRANSACTION_FAILED": "交易失败",
+    "TRANSACTION_DECLINED": "交易被拒绝",
+    "TRANSACTION_EXPIRED": "交易已过期",
+    "TRANSACTION_CANCELLED": "交易已取消",
+    "TRANSACTION_DUPLICATE": "重复的交易",
+    "TRANSACTION_NOT_FOUND": "未找到交易",
+    "INSUFFICIENT_FUNDS": "账户余额不足",
+    "PAYMENT_METHOD_INVALID": "无效的支付方式",
+    "CARD_ERROR": "银行卡错误",
+    "CARD_EXPIRED": "银行卡已过期",
+    "CARD_DECLINED": "银行卡被拒绝",
+    "CURRENCY_NOT_SUPPORTED": "不支持的货币",
+    "AMOUNT_TOO_SMALL": "金额过小",
+    "AMOUNT_TOO_LARGE": "金额过大",
+    "REFUND_FAILED": "退款失败",
+    "REFUND_LIMIT_EXCEEDED": "超出退款限制"
+  }

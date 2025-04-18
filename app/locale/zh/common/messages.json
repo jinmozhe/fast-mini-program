@@ -1,0 +1,33 @@
+{
+    "metadata": {
+      "module": "common",
+      "type": "messages",
+      "language": "zh",
+      "version": "1.0.0",
+      "generated_at": "2025-04-17T14:51:35Z"
+    },
+  
+    "OPERATION_SUCCESS": "操作成功",
+    "OPERATION_FAILED": "操作失败",
+    "CONFIRM_DELETE": "确定要删除吗？此操作不可撤销。",
+    "DATA_SAVED": "数据已保存",
+    "DATA_UPDATED": "数据已更新",
+    "DATA_DELETED": "数据已删除",
+    "FORM_INVALID": "表单包含无效数据，请检查并重试",
+    "SESSION_EXPIRED": "会话已过期，请重新登录",
+    "LOADING_DATA": "正在加载数据，请稍候...",
+    "NO_DATA": "暂无数据",
+    "NETWORK_ERROR": "网络错误，请检查您的网络连接",
+    "UNKNOWN_ERROR": "发生未知错误",
+    "PERMISSION_DENIED": "您没有权限执行此操作",
+    "RESOURCE_NOT_FOUND": "未找到请求的资源",
+    "ACTION_COMPLETED": "操作已完成",
+    "ACTION_PENDING": "操作正在处理中",
+    "ACTION_REQUIRED": "需要进一步操作",
+    "INPUT_REQUIRED": "请输入必要信息",
+    "SELECTION_REQUIRED": "请选择一项",
+    "UPLOAD_SUCCESS": "文件上传成功",
+    "UPLOAD_FAILED": "文件上传失败",
+    "SEARCH_NO_RESULTS": "未找到匹配结果",
+    "PAGE_NOT_FOUND": "页面未找到"
+  }

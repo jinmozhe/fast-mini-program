@@ -1,0 +1,27 @@
+{
+    "metadata": {
+      "module": "integrations",
+      "type": "maps",
+      "language": "zh",
+      "version": "1.0.0",
+      "generated_at": "2025-04-17T14:51:35Z"
+    },
+  
+    "API_ERROR": "地图服务API错误",
+    "AUTHENTICATION_FAILED": "地图服务认证失败",
+    "INVALID_API_KEY": "无效的地图服务API密钥",
+    "QUOTA_EXCEEDED": "地图服务配额已用尽",
+    "RATE_LIMIT_EXCEEDED": "地图服务请求频率超限",
+    "GEOCODING_FAILED": "地址编码失败",
+    "REVERSE_GEOCODING_FAILED": "反向地址编码失败",
+    "ROUTE_CALCULATION_FAILED": "路线计算失败",
+    "DISTANCE_CALCULATION_FAILED": "距离计算失败",
+    "LOCATION_NOT_FOUND": "找不到该位置",
+    "ADDRESS_NOT_FOUND": "找不到该地址",
+    "INVALID_COORDINATES": "无效的坐标",
+    "INVALID_ADDRESS": "无效的地址",
+    "NO_ROUTE_FOUND": "找不到可行路线",
+    "MULTIPLE_LOCATIONS_FOUND": "找到多个匹配位置",
+    "LOCATION_OUTSIDE_COVERAGE": "位置超出服务覆盖范围",
+    "SERVICE_AREA_RESTRICTION": "服务区域限制"
+  }

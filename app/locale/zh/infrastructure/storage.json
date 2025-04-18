@@ -1,0 +1,26 @@
+{
+    "metadata": {
+      "module": "infrastructure",
+      "type": "storage",
+      "language": "zh",
+      "version": "1.0.0", 
+      "generated_at": "2025-04-17T14:51:35Z"
+    },
+  
+    "FILE_NOT_FOUND": "文件未找到",
+    "FILE_ACCESS_DENIED": "文件访问被拒绝",
+    "FILE_ALREADY_EXISTS": "文件已存在",
+    "FILE_TOO_LARGE": "文件过大",
+    "FILE_CORRUPTED": "文件已损坏",
+    "DISK_FULL": "磁盘空间已满",
+    "DISK_IO_ERROR": "磁盘I/O错误",
+    "DISK_QUOTA_EXCEEDED": "磁盘配额已达到",
+    "DIRECTORY_NOT_EMPTY": "目录不为空",
+    "DIRECTORY_NOT_FOUND": "目录未找到",
+    "PATH_TOO_LONG": "路径过长",
+    "INVALID_FILENAME": "无效的文件名",
+    "INVALID_FILE_FORMAT": "无效的文件格式",
+    "STORAGE_UNAVAILABLE": "存储设备不可用",
+    "BACKUP_FAILED": "备份失败",
+    "RESTORE_FAILED": "恢复失败"
+  }

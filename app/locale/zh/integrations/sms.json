@@ -1,0 +1,27 @@
+{
+    "metadata": {
+      "module": "integrations",
+      "type": "sms",
+      "language": "zh",
+      "version": "1.0.0",
+      "generated_at": "2025-04-17T14:51:35Z"
+    },
+  
+    "SEND_FAILED": "发送短信失败",
+    "INVALID_PHONE": "无效的手机号码",
+    "AUTHENTICATION_FAILED": "短信服务认证失败",
+    "INVALID_API_KEY": "无效的短信服务API密钥",
+    "API_ERROR": "短信服务API错误",
+    "RATE_LIMIT": "发送短信频率过高，请稍后再试",
+    "DAILY_LIMIT_EXCEEDED": "已达到每日短信发送限制",
+    "MONTHLY_LIMIT_EXCEEDED": "已达到每月短信发送限制",
+    "CONTENT_REJECTED": "短信内容被拒绝",
+    "CONTENT_TOO_LONG": "短信内容过长",
+    "TEMPLATE_NOT_FOUND": "短信模板未找到",
+    "TEMPLATE_PARAMETER_MISSING": "短信模板参数缺失",
+    "TEMPLATE_PARAMETER_INVALID": "短信模板参数无效",
+    "SERVICE_UNAVAILABLE": "短信服务暂时不可用",
+    "NO_BALANCE": "短信账户余额不足",
+    "RECIPIENT_BLACKLISTED": "接收者被列入黑名单",
+    "SENDER_ID_INVALID": "无效的发送者ID"
+  }

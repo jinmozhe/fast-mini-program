@@ -1,0 +1,25 @@
+{
+    "metadata": {
+      "module": "infrastructure",
+      "type": "network",
+      "language": "zh",
+      "version": "1.0.0",
+      "generated_at": "2025-04-17T14:51:35Z"
+    },
+  
+    "CONNECTION_FAILED": "网络连接失败",
+    "CONNECTION_TIMEOUT": "网络连接超时",
+    "CONNECTION_REFUSED": "网络连接被拒绝",
+    "DNS_RESOLUTION_FAILED": "DNS解析失败",
+    "HOST_UNREACHABLE": "无法访问主机",
+    "NETWORK_UNAVAILABLE": "网络不可用",
+    "REQUEST_TIMEOUT": "请求超时",
+    "RESPONSE_TIMEOUT": "响应超时",
+    "SSL_ERROR": "SSL/TLS安全连接错误",
+    "PROXY_ERROR": "代理服务器错误",
+    "PACKET_LOSS": "网络数据包丢失",
+    "BANDWIDTH_LIMIT_EXCEEDED": "带宽限制已达到",
+    "TRAFFIC_LIMIT_EXCEEDED": "流量限制已达到",
+    "NETWORK_CONGESTION": "网络拥塞",
+    "VPN_ERROR": "VPN连接错误"
+  }

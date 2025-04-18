@@ -1,0 +1,30 @@
+{
+    "metadata": {
+      "module": "database",
+      "type": "errors",
+      "language": "zh",
+      "version": "1.0.0",
+      "generated_at": "2025-04-17T14:51:35Z"
+    },
+  
+    "CONNECTION_FAILED": "无法连接到数据库",
+    "CONNECTION_TIMEOUT": "数据库连接超时",
+    "CONNECTION_CLOSED": "数据库连接已关闭",
+    "QUERY_TIMEOUT": "数据库查询超时",
+    "QUERY_FAILED": "数据库查询失败",
+    "TRANSACTION_FAILED": "数据库事务失败",
+    "TRANSACTION_CONFLICT": "数据库事务冲突",
+    "DATA_TRUNCATED": "数据被截断",
+    "DEADLOCK_DETECTED": "检测到数据库死锁",
+    "SERIALIZATION_FAILURE": "序列化失败",
+    "TOO_MANY_CONNECTIONS": "数据库连接数过多",
+    "INVALID_OPERATION": "无效的数据库操作",
+    "INVALID_SQL": "无效的SQL语句",
+    "RESOURCE_EXHAUSTED": "数据库资源耗尽",
+    "SCHEMA_ERROR": "数据库架构错误",
+    "FOREIGN_KEY_VIOLATION": "违反外键约束",
+    "UNIQUE_VIOLATION": "违反唯一性约束",
+    "CHECK_VIOLATION": "违反检查约束",
+    "NOT_NULL_VIOLATION": "违反非空约束",
+    "UNKNOWN_DATABASE_ERROR": "发生未知的数据库错误"
+  }
